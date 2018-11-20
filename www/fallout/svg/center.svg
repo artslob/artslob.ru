@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="966.68326"
-     inkscape:cy="1604.3601"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="762.65452"
+     inkscape:cy="1539.5118"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      showguides="false"
      inkscape:snap-global="true"
@@ -76,72 +76,75 @@
     <g
        id="g8093"
        inkscape:label="Grid_Polar:X6:Y6"
-       transform="matrix(3.760724,0,0,3.760724,11.492541,11.492532)">
+       transform="matrix(3.760724,0,0,3.760724,11.492541,11.492532)"
+       style="stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;fill:none">
       <g
          id="g8077"
-         inkscape:label="MajorXGridlines">
+         inkscape:label="MajorXGridlines"
+         style="stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;fill:none">
         <path
            id="path8067"
            inkscape:label="MajorXDiv1"
-           style="fill:none;stroke:#000000;stroke-width:0.79374999"
+           style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 26.458333,0 V 158.75"
            inkscape:connector-curvature="0" />
         <path
            id="path8069"
            inkscape:label="MajorXDiv2"
-           style="fill:none;stroke:#000000;stroke-width:0.79374999"
+           style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 52.916667,0 V 158.75"
            inkscape:connector-curvature="0" />
         <path
            id="path8071"
            inkscape:label="MajorXDiv3"
-           style="fill:none;stroke:#000000;stroke-width:0.79374999"
+           style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 79.375,0 V 158.75"
            inkscape:connector-curvature="0" />
         <path
            id="path8073"
            inkscape:label="MajorXDiv4"
-           style="fill:none;stroke:#000000;stroke-width:0.79374999"
+           style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 105.83333,0 V 158.75"
            inkscape:connector-curvature="0" />
         <path
            id="path8075"
            inkscape:label="MajorXDiv5"
-           style="fill:none;stroke:#000000;stroke-width:0.79374999"
+           style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 132.29167,0 V 158.75"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="g8089"
-         inkscape:label="MajorYGridlines">
+         inkscape:label="MajorYGridlines"
+         style="stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;fill:none">
         <path
            id="path8079"
            inkscape:label="MajorYDiv1"
-           style="fill:none;stroke:#000000;stroke-width:0.79374999"
+           style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 0,26.458333 H 158.75"
            inkscape:connector-curvature="0" />
         <path
            id="path8081"
            inkscape:label="MajorYDiv2"
-           style="fill:none;stroke:#000000;stroke-width:0.79374999"
+           style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 0,52.916667 H 158.75"
            inkscape:connector-curvature="0" />
         <path
            id="path8083"
            inkscape:label="MajorYDiv3"
-           style="fill:none;stroke:#000000;stroke-width:0.79374999"
+           style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 0,79.375 H 158.75"
            inkscape:connector-curvature="0" />
         <path
            id="path8085"
            inkscape:label="MajorYDiv4"
-           style="fill:none;stroke:#000000;stroke-width:0.79374999"
+           style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 0,105.83333 H 158.75"
            inkscape:connector-curvature="0" />
         <path
            id="path8087"
            inkscape:label="MajorYDiv5"
-           style="fill:none;stroke:#000000;stroke-width:0.79374999"
+           style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 0,132.29167 H 158.75"
            inkscape:connector-curvature="0" />
       </g>
@@ -151,7 +154,7 @@
          y="0"
          x="0"
          width="158.75"
-         style="fill:none;stroke:#000000;stroke-width:0.79374999"
+         style="fill:none;stroke:#000000;stroke-width:0.39885937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          height="158.75" />
     </g>
   </g>
@@ -160,7 +163,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     style="opacity:0.299">
+     style="opacity:0.29899998">
     <path
        inkscape:connector-curvature="0"
        id="path3701"
