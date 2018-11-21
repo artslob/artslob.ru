@@ -32,8 +32,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1175.1277"
-     inkscape:cx="1069.6143"
+     inkscape:cy="1174.5865"
+     inkscape:cx="1068.8136"
      inkscape:zoom="1.2263364"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -318,5 +318,11 @@
        cx="310"
        cy="-12.999999"
        r="39.199764" />
+    <circle
+       cy="-12.999999"
+       cx="310"
+       id="circle4798"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       r="19.200001" />
   </g>
 </svg>
