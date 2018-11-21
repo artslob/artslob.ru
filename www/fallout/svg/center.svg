@@ -32,9 +32,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1305.3917"
-     inkscape:cx="659.43727"
-     inkscape:zoom="0.31261913"
+     inkscape:cy="1175.1277"
+     inkscape:cx="1069.6143"
+     inkscape:zoom="1.2263364"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -313,10 +313,10 @@
        rx="146.99997"
        ry="146.99995" />
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.7586205;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60047042;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path1056"
        cx="310"
-       cy="-13"
-       r="38.620689" />
+       cy="-12.999999"
+       r="39.199764" />
   </g>
 </svg>
