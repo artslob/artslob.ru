@@ -32,9 +32,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1174.5865"
-     inkscape:cx="1068.8136"
-     inkscape:zoom="1.2263364"
+     inkscape:cy="1025.4655"
+     inkscape:cx="1178.2298"
+     inkscape:zoom="0.86715079"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -324,5 +324,16 @@
        id="circle4798"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        r="19.200001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.98888969px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="295.81525"
+       y="-5.5274601"
+       id="text5031"><tspan
+         sodipodi:role="line"
+         id="tspan5029"
+         x="295.81525"
+         y="-5.5274601"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.98888969px;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';stroke-width:0.26458332">00</tspan></text>
   </g>
 </svg>
