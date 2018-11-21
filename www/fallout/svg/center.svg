@@ -32,8 +32,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1206.9382"
-     inkscape:cx="324.62232"
+     inkscape:cy="1118.9077"
+     inkscape:cx="853.93333"
      inkscape:zoom="0.62523826"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -300,17 +300,17 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        r="284.00006" />
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.01183414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.42603493;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path996"
        cx="310"
        cy="-13"
-       r="145" />
+       r="150" />
     <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.00008297;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="circle998"
-       cx="310.00043"
-       cy="-13.000421"
-       rx="142"
-       ry="141.99998" />
+       cx="310"
+       cy="-12.999995"
+       rx="146.99997"
+       ry="146.99995" />
   </g>
 </svg>
