@@ -32,9 +32,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="660.52462"
-     inkscape:cx="1005.1523"
-     inkscape:zoom="0.26162238"
+     inkscape:cy="1326.7895"
+     inkscape:cx="691.72303"
+     inkscape:zoom="0.36998992"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -281,16 +281,23 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-2.8823514e-8,323)">
-    <path
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:12.05296516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 289.22405,-306.43003 c -25.38842,2.50343 -50.72875,6.81704 -74.7651,15.58625 -23.55734,7.72241 -45.79686,19.19281 -66.59422,32.60246 -21.46644,14.43276 -41.23518,31.35455 -58.285899,50.83272 -15.578981,17.53925 -28.883886,37.11491 -39.878458,57.82471 -11.942882,22.9486 -20.948197,47.3578 -26.586108,72.611666 -6.278279,28.375954 -8.403948,57.710866 -6.30339,86.7066459 2.438045,25.7409581 7.343383,51.3028231 16.282068,75.6155341 7.738215,22.503124 18.769318,43.823904 31.668469,63.784604 14.432692,21.4665 31.354319,41.23507 50.832378,58.28621 17.5392,15.57896 37.11478,28.88405 57.82464,39.87868 22.9483,11.94294 47.35738,20.9483 72.61134,26.58625 28.37559,6.27832 57.71033,8.40399 86.70594,6.30342 25.74095,-2.43804 51.3026,-7.34342 75.61518,-16.28215 22.50303,-7.73826 43.82383,-18.76943 63.78411,-31.66861 21.46667,-14.43277 41.2351,-31.35453 58.28617,-50.8327 15.57868,-17.53928 28.88308,-37.11492 39.87842,-57.82471 11.94351,-22.94861 20.94811,-47.357808 26.58628,-72.611672 6.27817,-28.375952 8.40377,-57.7108638 6.30329,-86.706644 -2.43871,-25.740958 -7.34338,-51.302823 -16.28143,-75.615524 -7.73908,-22.50315 -18.77109,-43.82394 -31.66886,-63.78462 -14.43289,-21.46652 -31.35468,-41.23509 -50.83288,-58.28621 -17.53909,-15.57897 -37.11465,-28.88406 -57.82471,-39.87868 -22.94809,-11.94293 -47.35718,-20.94831 -72.61113,-26.58624 -27.73482,-6.21107 -56.37799,-8.16089 -84.7461,-6.54139 z"
-       id="path3701"
-       inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path18145"
        cx="310"
        cy="-13"
        r="304.99991" />
+    <circle
+       cy="-12.999998"
+       cx="310"
+       id="circle854"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000003;stroke-width:12.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       r="293.75012" />
+    <circle
+       cy="-12.999987"
+       cx="310"
+       id="circle856"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       r="284.00006" />
   </g>
 </svg>
