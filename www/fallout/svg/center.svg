@@ -32,9 +32,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1171.4448"
-     inkscape:cx="1022.8176"
-     inkscape:zoom="0.3065841"
+     inkscape:cy="1589.4276"
+     inkscape:cx="1535.4692"
+     inkscape:zoom="2.4526728"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -365,5 +365,15 @@
        cx="310"
        id="circle1047"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:18.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 420.59099,-123.59099 c 86.90564,-86.90564 89.80256,-89.80256 89.80256,-89.80256"
+       id="path4920"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#060000;fill-opacity:1;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 420.59099,-123.59099 89.80256,-89.80256"
+       id="path4918"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
