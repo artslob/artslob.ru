@@ -32,9 +32,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1147.9612"
-     inkscape:cx="1354.7602"
-     inkscape:zoom="0.6131682"
+     inkscape:cy="1176.6968"
+     inkscape:cx="1185.252"
+     inkscape:zoom="1.7343016"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -335,5 +335,29 @@
          x="295.81525"
          y="-5.5274601"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.98888969px;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';stroke-width:0.26458332">00</tspan></text>
+    <circle
+       r="23.200001"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="circle981"
+       cx="310"
+       cy="-13.000001" />
+    <circle
+       cy="-13.000001"
+       cx="310"
+       id="circle983"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       r="27.200001" />
+    <circle
+       r="31.200001"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="circle985"
+       cx="310"
+       cy="-13.000001" />
+    <circle
+       cy="-13.000001"
+       cx="310"
+       id="circle987"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       r="35.200001" />
   </g>
 </svg>
