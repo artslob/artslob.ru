@@ -32,9 +32,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1280.3288"
-     inkscape:cx="764.2289"
-     inkscape:zoom="0.64"
+     inkscape:cy="1215.0399"
+     inkscape:cx="664.53672"
+     inkscape:zoom="1.4142136"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -513,5 +513,11 @@
        sodipodi:end="4.1538836"
        d="m 210.35435,-74.500553 a 117.5,117 0 0 1 37.38013,-37.221077"
        sodipodi:open="true" />
+    <circle
+       id="path957"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#010000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       cx="310"
+       cy="-13.000002"
+       r="143.5" />
   </g>
 </svg>
