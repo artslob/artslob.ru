@@ -32,8 +32,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1223.9066"
-     inkscape:cx="1387.2468"
+     inkscape:cy="1280.1636"
+     inkscape:cx="985.94115"
      inkscape:zoom="0.45254834"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -477,5 +477,41 @@
        sodipodi:type="arc"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#010000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path74" />
+    <path
+       d="m 254.87687,-47.444751 a 65,65 0 0 1 20.67838,-20.678375"
+       sodipodi:open="true"
+       sodipodi:end="4.1538836"
+       sodipodi:start="3.700098"
+       sodipodi:ry="65"
+       sodipodi:rx="65"
+       sodipodi:cy="-13"
+       sodipodi:cx="310"
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#010000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path3349" />
+    <path
+       sodipodi:open="true"
+       d="m 232.82762,-61.222652 a 91,91 0 0 1 28.94973,-28.949724"
+       sodipodi:end="4.1538836"
+       sodipodi:start="3.700098"
+       sodipodi:ry="91"
+       sodipodi:rx="91"
+       sodipodi:cy="-13"
+       sodipodi:cx="310"
+       sodipodi:type="arc"
+       id="path3351"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#010000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <path
+       d="m 211.87554,-76.722766 a 117,117 0 0 1 36.1239,-35.498864"
+       sodipodi:open="true"
+       sodipodi:end="4.1538836"
+       sodipodi:start="3.7175513"
+       sodipodi:ry="117"
+       sodipodi:rx="117"
+       sodipodi:cy="-13"
+       sodipodi:cx="310"
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#010000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path3353" />
   </g>
 </svg>
