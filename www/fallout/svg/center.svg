@@ -27,7 +27,7 @@
      inkscape:cx="1018.6047"
      inkscape:cy="1394.7981"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="true"
      showguides="false"
      inkscape:snap-global="true"
@@ -685,7 +685,7 @@
        cy="-13"
        cx="310"
        id="path1056"
-       style="opacity:1;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        transform="translate(-2.8823515e-8,323)" />
     <circle
        r="18.75"
