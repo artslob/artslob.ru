@@ -32,9 +32,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1523.7515"
-     inkscape:cx="1425.2433"
-     inkscape:zoom="1.226336"
+     inkscape:cy="1374.6447"
+     inkscape:cx="515.4337"
+     inkscape:zoom="0.43357527"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1130,6 +1130,30 @@
            x="119.96898"
            y="-373.99619"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';stroke-width:0.26458332">20</tspan></text>
+    </g>
+    <g
+       id="g2796"
+       transform="translate(105.95326,122.172)">
+      <rect
+         y="-311.12698"
+         x="36.769558"
+         height="16"
+         width="24"
+         id="rect2782"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         transform="rotate(45)" />
+      <text
+         transform="matrix(0.67889157,0.67889157,-0.73649463,0.73649463,0,0)"
+         id="text2786"
+         y="-283.70361"
+         x="36.745083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.52459717px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';stroke-width:0.26458332"
+           y="-283.70361"
+           x="36.745083"
+           id="tspan2784"
+           sodipodi:role="line">25</tspan></text>
     </g>
   </g>
   <g
