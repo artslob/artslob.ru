@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7713058"
-     inkscape:cx="1946.7587"
-     inkscape:cy="825.11327"
+     inkscape:zoom="0.69282645"
+     inkscape:cx="1839.7707"
+     inkscape:cy="1026.5903"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -924,20 +924,14 @@
        id="rect987"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
-    <rect
+    <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       id="rect1172"
-       width="12"
-       height="8"
-       x="504"
-       y="-117" />
-    <rect
-       y="83"
-       x="504"
-       height="8"
-       width="12"
-       id="rect1377"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+       d="m 504,-117 h 12 v 8 h -12 z"
+       id="rect1172" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 504,83 h 12 v 8 h -12 z"
+       id="rect1377" />
   </g>
   <g
      inkscape:groupmode="layer"
