@@ -32,9 +32,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="851.19855"
-     inkscape:cx="343.30844"
-     inkscape:zoom="1.226336"
+     inkscape:cy="806.79925"
+     inkscape:cx="1092.4387"
+     inkscape:zoom="0.43357527"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1049,6 +1049,13 @@
          x="113.86545"
          y="85.032875"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';stroke-width:0.26458332">575</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect2015"
+       width="400"
+       height="6"
+       x="110"
+       y="143" />
   </g>
   <g
      inkscape:groupmode="layer"
