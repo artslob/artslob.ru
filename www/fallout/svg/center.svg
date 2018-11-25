@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7713058"
-     inkscape:cx="1933.0405"
-     inkscape:cy="823.40592"
+     inkscape:zoom="1.9596091"
+     inkscape:cx="1866.2124"
+     inkscape:cy="1509.893"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -932,6 +932,13 @@
        id="rect987"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect3344"
+       width="26"
+       height="21"
+       x="497"
+       y="-130" />
   </g>
   <g
      style="opacity:1"
