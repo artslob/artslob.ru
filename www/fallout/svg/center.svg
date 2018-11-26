@@ -33,9 +33,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1522.7695"
-     inkscape:cx="1710.7509"
-     inkscape:zoom="1.4142136"
+     inkscape:cy="793.93591"
+     inkscape:cx="1832.9943"
+     inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -961,13 +961,14 @@
        y="83" />
     <text
        id="text190"
-       y="98.72435"
-       x="493.62433"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.37672234px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
+       y="87.826408"
+       x="558.71533"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.34815979px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       transform="scale(0.88961244,1.124085)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';stroke-width:0.26458332"
-         y="98.72435"
-         x="493.62433"
+         y="87.826408"
+         x="558.71533"
          id="tspan188"
          sodipodi:role="line">300</tspan></text>
     <path
