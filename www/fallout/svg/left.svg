@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.613168"
-     inkscape:cx="665.85106"
-     inkscape:cy="538.03919"
+     inkscape:zoom="0.306584"
+     inkscape:cx="935.23431"
+     inkscape:cy="547.51116"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -345,6 +345,14 @@
        xlink:href="#path17"
        id="use850"
        transform="translate(0,430)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path354"
+       id="use853"
+       transform="rotate(-90,310.00012,-12.999882)"
        width="100%"
        height="100%" />
   </g>
