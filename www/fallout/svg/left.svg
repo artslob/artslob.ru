@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.452672"
-     inkscape:cx="177.2686"
-     inkscape:cy="305.92338"
+     inkscape:zoom="0.43357525"
+     inkscape:cx="183.13115"
+     inkscape:cy="563.87925"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -527,6 +527,29 @@
            x="180.14613"
            id="tspan1071"
            sodipodi:role="line">25</tspan></text>
+    </g>
+    <g
+       id="g1083"
+       transform="rotate(45,-384.57441,-106.95467)">
+      <rect
+         y="-171"
+         x="164"
+         height="12"
+         width="18"
+         id="rect1077"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="180.14613"
+         y="-144.99556"
+         id="text1081"
+         transform="scale(0.91034355,1.0984864)"><tspan
+           sodipodi:role="line"
+           id="tspan1079"
+           x="180.14613"
+           y="-144.99556"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332">20</tspan></text>
     </g>
   </g>
 </svg>
