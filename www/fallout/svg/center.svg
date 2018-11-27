@@ -31,10 +31,10 @@
      inkscape:snap-global="false"
      showguides="false"
      showgrid="true"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-units="mm"
-     inkscape:cy="630.70174"
-     inkscape:cx="611.39616"
+     inkscape:cy="1309.5243"
+     inkscape:cx="1240.2014"
      inkscape:zoom="0.70710678"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -1315,7 +1315,7 @@
     <text
        transform="translate(-2.8823515e-8,323)"
        xml:space="preserve"
-       style="opacity:1;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.98888969px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.98888969px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="295.81525"
        y="-5.5274601"
        id="text5031"><tspan
@@ -1323,7 +1323,7 @@
          id="tspan5029"
          x="295.81525"
          y="-5.5274601"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.98888969px;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';stroke-width:0.26458332">00</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.98888969px;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';stroke-width:0.26458332">30</tspan></text>
     <circle
        transform="translate(-2.8823515e-8,323)"
        r="22.75"
