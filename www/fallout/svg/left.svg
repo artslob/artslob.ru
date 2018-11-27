@@ -28,7 +28,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="257.65823"
-     inkscape:cy="2004.7175"
+     inkscape:cy="1844.7175"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -211,5 +211,29 @@
        sodipodi:end="2.5830873"
        d="M 60.952687,-173.51289 A 64.25,64.25 0 0 1 40.51291,-193.95267"
        sodipodi:open="true" />
+    <path
+       sodipodi:open="true"
+       d="m 131.67808,-205.08099 a 43.25,43.25 0 0 1 -13.75907,13.75907"
+       sodipodi:end="1.012291"
+       sodipodi:start="0.55850536"
+       sodipodi:ry="43.25"
+       sodipodi:rx="43.25"
+       sodipodi:cy="-228"
+       sodipodi:cx="95"
+       sodipodi:type="arc"
+       id="path1027"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <path
+       sodipodi:open="true"
+       d="m 149.48709,-193.95267 a 64.25,64.25 0 0 1 -20.43978,20.43978"
+       sodipodi:end="1.012291"
+       sodipodi:start="0.55850536"
+       sodipodi:ry="64.25"
+       sodipodi:rx="64.25"
+       sodipodi:cy="-227.99998"
+       sodipodi:cx="95"
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path1029" />
   </g>
 </svg>
