@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.86715054"
-     inkscape:cx="521.90775"
-     inkscape:cy="134.68562"
+     inkscape:zoom="0.61316802"
+     inkscape:cx="320.8111"
+     inkscape:cy="1926.4166"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -120,5 +120,13 @@
        d="M 190.00004,-313.7499 V 287.75012"
        id="path3030"
        inkscape:connector-curvature="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3030"
+       id="use3032"
+       transform="translate(-100.00004)"
+       width="100%"
+       height="100%" />
   </g>
 </svg>
