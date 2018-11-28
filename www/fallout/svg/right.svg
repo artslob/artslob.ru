@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.43357527"
-     inkscape:cx="43.757594"
-     inkscape:cy="609.25937"
+     inkscape:zoom="0.30658401"
+     inkscape:cx="-128.23089"
+     inkscape:cy="495.72609"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -459,5 +459,17 @@
        sodipodi:end="1.012291"
        d="M 159.48707,236.04753 A 64.25,64.25 0 0 1 139.04729,256.4873"
        sodipodi:open="true" />
+    <text
+       transform="scale(0.91034354,1.0984864)"
+       id="text3336"
+       y="189.10052"
+       x="105.44905"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332"
+         y="189.10052"
+         x="105.44905"
+         id="tspan3334"
+         sodipodi:role="line">30</tspan></text>
   </g>
 </svg>
