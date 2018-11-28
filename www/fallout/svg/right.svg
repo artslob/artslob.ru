@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="200mm"
@@ -25,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.86715054"
-     inkscape:cx="400.90876"
-     inkscape:cy="150.84052"
+     inkscape:zoom="0.30658401"
+     inkscape:cx="789.26203"
+     inkscape:cy="1958.3441"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -66,5 +67,53 @@
        d="M 0,287 H 190"
        id="path3016"
        inkscape:connector-curvature="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3016"
+       id="use3018"
+       transform="translate(0,-100)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3016"
+       id="use3020"
+       transform="translate(0,-200)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3016"
+       id="use3022"
+       transform="translate(0,-300)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3016"
+       id="use3024"
+       transform="translate(0,-400)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3016"
+       id="use3026"
+       transform="translate(0,-500)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3016"
+       id="use3028"
+       transform="translate(0,-600)"
+       width="100%"
+       height="100%" />
   </g>
 </svg>
