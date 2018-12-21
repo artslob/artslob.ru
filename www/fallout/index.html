@@ -37,26 +37,44 @@
             background-color: #ffffff;
             display: inline-block;
         }
-        .center {
-
-        }
-        .right {
-
-        }
         @media (min-aspect-ratio: 1020/620) {
             /* landscape */
+            .top {
+                display: none;
+            }
             .left {
                 background-color: #0000ff;
+            }
+            .center {
+
+            }
+            .right {
+
+            }
+            .bottom {
+                display: none;
             }
         }
         @media (max-aspect-ratio: 1020/620) {
             /* portrait */
+            .top {
+
+            }
             .left {
-                background-color: #00ff00;
+                display: none;
+            }
+            .center {
+
+            }
+            .right {
+                display: none;
+            }
+            .bottom {
+
             }
         }
     </style>
 </head>
 
-<body><div class="container"><img class="image left" src="svg/left.svg"><img class="image center" src="svg/center.svg"><img class="image right" src="svg/right.svg"></div></body>
+<body><div class="container"><img class="image top" src="svg/top.svg"><img class="image left" src="svg/left.svg"><img class="image center" src="svg/center.svg"><img class="image right" src="svg/right.svg"><img class="image bottom" src="svg/bottom.svg"></div></body>
 </html>
