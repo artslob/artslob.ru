@@ -31,10 +31,10 @@
      inkscape:snap-global="false"
      showguides="false"
      showgrid="true"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:document-units="mm"
-     inkscape:cy="-116.1859"
-     inkscape:cx="1236.9965"
+     inkscape:cy="1150.4351"
+     inkscape:cx="1433.8916"
      inkscape:zoom="0.43357527"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -1355,5 +1355,16 @@
        width="12"
        id="rect2017"
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.79598236px;line-height:1000;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329;"
+       x="87.003365"
+       y="328.86288"
+       id="text3536"><tspan
+         sodipodi:role="line"
+         id="tspan3533"
+         x="87.003365"
+         y="328.86288"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';letter-spacing:0px;stroke-width:0.26458329;">PLEASE  STAND  BY</tspan></text>
   </g>
 </svg>
