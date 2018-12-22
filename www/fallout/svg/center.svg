@@ -33,9 +33,9 @@
      showgrid="true"
      inkscape:current-layer="layer3"
      inkscape:document-units="mm"
-     inkscape:cy="1239.9662"
-     inkscape:cx="777.84285"
-     inkscape:zoom="1.226336"
+     inkscape:cy="1346.8083"
+     inkscape:cx="956.3261"
+     inkscape:zoom="0.43357527"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1368,7 +1368,7 @@
          sodipodi:role="line">PLEASE  STAND  BY</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.79598236px;line-height:1000;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.79598236px;line-height:1000;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
        x="87.003365"
        y="328.86288"
        id="text3536"><tspan
@@ -1376,6 +1376,6 @@
          id="tspan3533"
          x="87.003365"
          y="328.86288"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';letter-spacing:0px;stroke-width:2;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;">PLEASE  STAND  BY</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';letter-spacing:0px;stroke-width:2;stroke:#808080;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill:#808080;">PLEASE  STAND  BY</tspan></text>
   </g>
 </svg>
