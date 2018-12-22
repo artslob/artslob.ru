@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30658401"
-     inkscape:cx="-338.26962"
-     inkscape:cy="88.317256"
+     inkscape:zoom="1.7343011"
+     inkscape:cx="308.96463"
+     inkscape:cy="1583.3734"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -263,98 +263,86 @@
          x="105.44905"
          y="-202.34698"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332">30</tspan></text>
-    <g
-       id="g1148"
-       transform="rotate(45,164.18102,-299.65271)">
-      <rect
-         y="-171"
-         x="164"
-         height="12"
-         width="18"
-         id="rect1139"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="180.14613"
-         y="-144.99556"
-         id="text1143"
-         transform="scale(0.91034355,1.0984864)"><tspan
-           sodipodi:role="line"
-           id="tspan1141"
-           x="180.14613"
-           y="-144.99556"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332">30</tspan></text>
-    </g>
-    <g
-       transform="rotate(45,139.48147,-309.8836)"
-       id="g1156">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect1150"
-         width="18"
-         height="12"
-         x="164"
-         y="-171" />
-      <text
-         transform="scale(0.91034355,1.0984864)"
-         id="text1154"
-         y="-144.99556"
-         x="180.14613"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332"
-           y="-144.99556"
-           x="180.14613"
-           id="tspan1152"
-           sodipodi:role="line">35</tspan></text>
-    </g>
-    <g
-       id="g1164"
-       transform="rotate(45,265.91386,-257.51358)">
-      <rect
-         y="-171"
-         x="164"
-         height="12"
-         width="18"
-         id="rect1158"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="180.14613"
-         y="-144.99556"
-         id="text1162"
-         transform="scale(0.91034355,1.0984864)"><tspan
-           sodipodi:role="line"
-           id="tspan1160"
-           x="180.14613"
-           y="-144.99556"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332">25</tspan></text>
-    </g>
-    <g
-       transform="rotate(45,290.61341,-247.2827)"
-       id="g1180">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect1174"
-         width="18"
-         height="12"
-         x="164"
-         y="-171" />
-      <text
-         transform="scale(0.91034355,1.0984864)"
-         id="text1178"
-         y="-144.99556"
-         x="180.14613"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332"
-           y="-144.99556"
-           x="180.14613"
-           id="tspan1176"
-           sodipodi:role="line">20</tspan></text>
-    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1139"
+       width="18"
+       height="12"
+       x="-95.973969"
+       y="-199.32727"
+       transform="rotate(45)" />
+    <text
+       transform="matrix(0.6437101,0.6437101,-0.77674718,0.77674718,0,0)"
+       id="text1143"
+       y="-170.7831"
+       x="-105.43174"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332"
+         y="-170.7831"
+         x="-105.43174"
+         id="tspan1141"
+         sodipodi:role="line">30</tspan></text>
+    <rect
+       y="-178.86549"
+       x="-95.973969"
+       height="12"
+       width="18"
+       id="rect1150"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       transform="rotate(45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-105.43174"
+       y="-152.15585"
+       id="text1154"
+       transform="matrix(0.6437101,0.6437101,-0.77674718,0.77674718,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1152"
+         x="-105.43174"
+         y="-152.15585"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332">35</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1158"
+       width="18"
+       height="12"
+       x="-95.973969"
+       y="-283.6055"
+       transform="rotate(45)" />
+    <text
+       transform="matrix(0.6437101,0.6437101,-0.77674718,0.77674718,0,0)"
+       id="text1162"
+       y="-247.50526"
+       x="-105.43172"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332"
+         y="-247.50526"
+         x="-105.43172"
+         id="tspan1160"
+         sodipodi:role="line">25</tspan></text>
+    <rect
+       y="-304.06729"
+       x="-95.973969"
+       height="12"
+       width="18"
+       id="rect1174"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       transform="rotate(45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-105.43173"
+       y="-266.13251"
+       id="text1178"
+       transform="matrix(0.6437101,0.6437101,-0.77674718,0.77674718,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1176"
+         x="-105.43173"
+         y="-266.13251"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332">20</tspan></text>
     <use
        x="0"
        y="0"
@@ -471,97 +459,85 @@
          x="105.44905"
          id="tspan3334"
          sodipodi:role="line">30</tspan></text>
-    <g
-       id="g3344"
-       transform="rotate(-45,506.44248,131.88384)">
-      <rect
-         y="-171"
-         x="164"
-         height="12"
-         width="18"
-         id="rect3338"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="180.14613"
-         y="-144.99556"
-         id="text3342"
-         transform="scale(0.91034355,1.0984864)"><tspan
-           sodipodi:role="line"
-           id="tspan3340"
-           x="180.14613"
-           y="-144.99556"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332">35</tspan></text>
-    </g>
-    <g
-       transform="rotate(-45,531.14198,121.65294)"
-       id="g3352">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect3346"
-         width="18"
-         height="12"
-         x="164"
-         y="-171" />
-      <text
-         transform="scale(0.91034355,1.0984864)"
-         id="text3350"
-         y="-144.99556"
-         x="180.14613"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332"
-           y="-144.99556"
-           x="180.14613"
-           id="tspan3348"
-           sodipodi:role="line">30</tspan></text>
-    </g>
-    <g
-       transform="rotate(-45,632.87482,79.513822)"
-       id="g3360">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect3354"
-         width="18"
-         height="12"
-         x="164"
-         y="-171" />
-      <text
-         transform="scale(0.91034355,1.0984864)"
-         id="text3358"
-         y="-144.99556"
-         x="180.14613"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332"
-           y="-144.99556"
-           x="180.14613"
-           id="tspan3356"
-           sodipodi:role="line">25</tspan></text>
-    </g>
-    <g
-       id="g3368"
-       transform="rotate(-45,657.5744,69.282952)">
-      <rect
-         y="-171"
-         x="164"
-         height="12"
-         width="18"
-         id="rect3362"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="180.14613"
-         y="-144.99556"
-         id="text3366"
-         transform="scale(0.91034355,1.0984864)"><tspan
-           sodipodi:role="line"
-           id="tspan3364"
-           x="180.14613"
-           y="-144.99556"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332">20</tspan></text>
-    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect3338"
+       width="18"
+       height="12"
+       x="-77.589523"
+       y="148.48103"
+       transform="rotate(-45)" />
+    <text
+       transform="matrix(0.6437101,-0.6437101,0.77674718,0.77674718,0,0)"
+       id="text3342"
+       y="145.84193"
+       x="-85.236671"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332"
+         y="145.84193"
+         x="-85.236671"
+         id="tspan3340"
+         sodipodi:role="line">35</tspan></text>
+    <rect
+       y="168.94278"
+       x="-77.5895"
+       height="12"
+       width="18"
+       id="rect3346"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-85.236649"
+       y="164.46915"
+       id="text3350"
+       transform="matrix(0.6437101,-0.6437101,0.77674718,0.77674718,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3348"
+         x="-85.236649"
+         y="164.46915"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332">30</tspan></text>
+    <rect
+       y="253.22102"
+       x="-77.589508"
+       height="12"
+       width="18"
+       id="rect3354"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-85.236656"
+       y="241.19131"
+       id="text3358"
+       transform="matrix(0.6437101,-0.6437101,0.77674718,0.77674718,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3356"
+         x="-85.236656"
+         y="241.19131"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332">25</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect3362"
+       width="18"
+       height="12"
+       x="-77.589531"
+       y="273.6828"
+       transform="rotate(-45)" />
+    <text
+       transform="matrix(0.6437101,-0.6437101,0.77674718,0.77674718,0,0)"
+       id="text3366"
+       y="259.81857"
+       x="-85.236671"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7291317px;line-height:1000;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter Bold';letter-spacing:0px;stroke-width:0.26458332"
+         y="259.81857"
+         x="-85.236671"
+         id="tspan3364"
+         sodipodi:role="line">20</tspan></text>
   </g>
 </svg>
