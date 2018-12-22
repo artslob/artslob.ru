@@ -31,11 +31,11 @@
      inkscape:snap-global="false"
      showguides="false"
      showgrid="true"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-units="mm"
-     inkscape:cy="1160.2621"
-     inkscape:cx="1099.802"
-     inkscape:zoom="0.35355339"
+     inkscape:cy="2156.3812"
+     inkscape:cx="2520.8935"
+     inkscape:zoom="0.49500544"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -74,106 +74,6 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 0">
-    <g
-       id="g17242"
-       inkscape:label="Grid_Polar:X1:Y6"
-       transform="matrix(0.37795271,0,0,3.7795274,4.8580201e-7,9.9999908)">
-      <g
-         id="g17226"
-         inkscape:label="MajorXGridlines" />
-      <g
-         id="g17238"
-         inkscape:label="MajorYGridlines">
-        <path
-           id="path17228"
-           inkscape:label="MajorYDiv1"
-           style="fill:none;stroke:#000000;stroke-width:0.39687499"
-           d="M 0,26.458333 H 26.458333"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path17230"
-           inkscape:label="MajorYDiv2"
-           style="fill:none;stroke:#000000;stroke-width:0.39687499"
-           d="M 0,52.916667 H 26.458333"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path17232"
-           inkscape:label="MajorYDiv3"
-           style="fill:none;stroke:#000000;stroke-width:0.39687499"
-           d="M 0,79.375 H 26.458333"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path17234"
-           inkscape:label="MajorYDiv4"
-           style="fill:none;stroke:#000000;stroke-width:0.39687499"
-           d="M 0,105.83333 H 26.458333"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path17236"
-           inkscape:label="MajorYDiv5"
-           style="fill:none;stroke:#000000;stroke-width:0.39687499"
-           d="M 0,132.29167 H 26.458333"
-           inkscape:connector-curvature="0" />
-      </g>
-      <rect
-         id="rect17240"
-         inkscape:label="Border"
-         y="0"
-         x="0"
-         width="26.458334"
-         style="fill:none;stroke:#000000;stroke-width:0"
-         height="158.75" />
-    </g>
-    <g
-       transform="matrix(0.37795271,0,0,3.7795274,610,10.000023)"
-       inkscape:label="Grid_Polar:X1:Y6"
-       id="g17458">
-      <g
-         inkscape:label="MajorXGridlines"
-         id="g17442" />
-      <g
-         inkscape:label="MajorYGridlines"
-         id="g17454">
-        <path
-           inkscape:connector-curvature="0"
-           d="M 0,26.458333 H 26.458333"
-           style="fill:none;stroke:#000000;stroke-width:0.39687499"
-           inkscape:label="MajorYDiv1"
-           id="path17444" />
-        <path
-           inkscape:connector-curvature="0"
-           d="M 0,52.916667 H 26.458333"
-           style="fill:none;stroke:#000000;stroke-width:0.39687499"
-           inkscape:label="MajorYDiv2"
-           id="path17446" />
-        <path
-           inkscape:connector-curvature="0"
-           d="M 0,79.375 H 26.458333"
-           style="fill:none;stroke:#000000;stroke-width:0.39687499"
-           inkscape:label="MajorYDiv3"
-           id="path17448" />
-        <path
-           inkscape:connector-curvature="0"
-           d="M 0,105.83333 H 26.458333"
-           style="fill:none;stroke:#000000;stroke-width:0.39687499"
-           inkscape:label="MajorYDiv4"
-           id="path17450" />
-        <path
-           inkscape:connector-curvature="0"
-           d="M 0,132.29167 H 26.458333"
-           style="fill:none;stroke:#000000;stroke-width:0.39687499"
-           inkscape:label="MajorYDiv5"
-           id="path17452" />
-      </g>
-      <rect
-         height="158.75"
-         style="fill:none;stroke:#000000;stroke-width:0"
-         width="26.458334"
-         x="0"
-         y="0"
-         inkscape:label="Border"
-         id="rect17456" />
-    </g>
     <g
        id="g18052"
        inkscape:label="Grid_Polar:X6:Y6"
