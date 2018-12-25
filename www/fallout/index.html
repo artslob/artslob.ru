@@ -21,60 +21,33 @@
             width: 100%;
             max-width: 100%;
             max-height: 100%;
-            /*display: inline-block;*/
-            background-color: #00ff00;
+            background-color: #ffffff;
         }
         .container {
             height: 100%;
-            max-height: 100%;
-            text-align: center;
+            width: 100%;
         }
-        .image {
-            max-width: 100%;
-            max-height: 100%;
-            height: auto;
-            width: auto;
-            background-color: #ffffff;
-            display: inline-block;
+        .background {
+            display: initial;
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: contain;
+            -o-background-size: contain;
+            -moz-background-size: contain;
+            -webkit-background-size: contain;
+            background-image: url("svg/portrait.svg");
         }
-        @media (max-aspect-ratio: 1020/620) {
-            /* portrait */
-            .top {
-
-            }
-            .left {
-                display: none;
-            }
-            .center {
-
-            }
-            .right {
-                display: none;
-            }
-            .bottom {
-
-            }
-        }
-        @media (min-aspect-ratio: 1020/620) {
-            /* landscape */
-            .top {
-                display: none;
-            }
-            .left {
-                background-color: #0000ff;
-            }
-            .center {
-
-            }
-            .right {
-
-            }
-            .bottom {
-                display: none;
+        @media (min-aspect-ratio: 1/1) {
+            .background {
+                background-image: url("svg/landscape.svg");
             }
         }
     </style>
 </head>
 
-<body><div class="container"><img class="image top" src="svg/top.svg"><img class="image left" src="svg/left.svg"><img class="image center" src="svg/center.svg"><img class="image right" src="svg/right.svg"><img class="image bottom" src="svg/bottom.svg"></div></body>
+<body><div class="container"><div class="background"></div></div></body>
 </html>
